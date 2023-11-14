@@ -1,7 +1,7 @@
 import '../app/globals.css'
 import Header from '../app/components/Header'
 import Footer from '../app/components/Footer'
-import '../app/styles/layout.css'
+
 
  function Home()
  {
@@ -10,7 +10,6 @@ import '../app/styles/layout.css'
     <Header /> 
 
     <main> <h1> Body </h1> </main> <>
-    
     <Footer/>
     </></>
       )
